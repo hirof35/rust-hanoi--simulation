@@ -1,0 +1,7 @@
+[package]
+name = "rust-hanoi--simulation"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+macroquad = "0.4" # 2D描画・入力・オーディオ用の軽量フレームワーク
